@@ -21,7 +21,7 @@
 
 ---
 
-<details>
+
 <summary>
   ✨ Tech stack currently using:
 </summary>
@@ -32,7 +32,7 @@
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 
-</details>
+
 <br>
 
 <details>
@@ -66,20 +66,21 @@
 
 ---
 
-<details open="">
-<summary>
+
  📔 GitHub Stats:
-</summary>
+
 <br>
 <p align="center">
-  <a href="https://github.com/Paxius025">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="http://www.github.com/Paxius025">
+    <img align="center"  height="175px"  src="https://github-readme-stats.vercel.app/api?username=Paxius025&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Paxius025's GitHub stats" />
   </a>
   <a href="https://github.com/Paxius025">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="175px"  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paxius025&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
+
 </p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Ratheshan03" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paxius025&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p>
+  
 </details>
 
 ---
@@ -107,4 +108,4 @@
   <br>
   
 <p align="right" > Reference 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
+
