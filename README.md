@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pantong Sanonok</h1>
-<p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
-</p>
 
+<br>
 <p align="center">
   <em>
     This is me <b>Pantong Sanonok</b>, a second year <b>Computer Engineer</b> undergraduate from <a href="https://www.ku.ac.th/th"> <b>Kasetsart University</b>, Thailand</a>.<br>
@@ -14,11 +12,11 @@
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
+- 🧞 I'm a member of KUSE : Young Innovator Club.
+- 🔭 I’m currently working on Backend Web Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- ⚡ Fun fact: I love Sports, especially Football.
 <br>
 
 ---
@@ -34,7 +32,6 @@
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 
-  
 </details>
 <br>
 
@@ -75,10 +72,10 @@
 </summary>
 <br>
 <p align="center">
-  <a href="https://github.com/Ratheshan03">
+  <a href="https://github.com/Paxius025">
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/Ratheshan03">
+  <a href="https://github.com/Paxius025">
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
@@ -89,25 +86,25 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
-   <img align="left" alt=" Ratheshan Sathiyamoorthy | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <a href="https://www.linkedin.com/in/pantong-sanonok-41b152308/">
+   <img align="left" alt=" Pantong Sanonok | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:lionratheshan@gmail.com">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="mailto:pantong.sano47@gmail.com">
+    <img align="left" alt="Pantong Sanonok | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://twitter.com/Ratheshan_03">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  <a href="https://x.com/PantongSanoker">
+    <img align="left" alt="Pantong Sanonok| X" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
-  <a href="https://www.instagram.com/ratheshan_03/">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <a href="https://www.instagram.com/ppantong_/?fbclid=IwZXh0bgNhZW0CMTAAAR2I08-ED1MWeS9dKH2554V2iKwfljUTriVaiP9txrJCnHbnKHkDyTSueKU_aem_Aeaz20ey_4mTUii3O0z60NQsKur1FVctrESIANb8lJecCtm__GNoxUn7jT8ae4hyyCmlyYxXo1IlywHuWbe18cQk">
+    <img align="left" alt="Pantong Sanonok | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/profile.php?id=100003874786181">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+   <a href="https://https://www.facebook.com/Pantong.pp/">
+    <img align="left" alt="Pantong Sanonok| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
-   <a href="https://github.com/Ratheshan03">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+   <a href="https://github.com/Paxius025">
+    <img align="left" alt="Pantong Sanonok| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
   
-<p align="right" > Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
+<p align="right" > Reference 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
