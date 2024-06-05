@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on Backend Web Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Football.
+- ⚡ Fun fact: I love Football, Read book and Workout.
 <br>
 
 ---
