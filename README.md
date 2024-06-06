@@ -7,7 +7,7 @@
     An aspiring <b>Backend Developer,</b>&nbsp; <b>Networking System</b>&nbsp; and <b> System design.</b> 
   <br>
     <br>
-  <b><i>"---"You only live once, but if you do it right, once is enough." </b>– Mae West---"</i>
+  <b><i>" You only live once, but if you do it right, once is enough. " </b> Mae West</i>
 </p>
 
 <h3>Little facts about me 🧑</h3>
