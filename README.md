@@ -10,15 +10,6 @@
   <b><i>" You only live once, but if you do it right, once is enough. " </b> Mae West</i>
 </p>
 
-<h3>Little facts about me 🧑</h3>
-
-- 🧞 I'm a member of KUSE : Young Innovator Club.
-- 🔭 I’m currently learning on Backend Web Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-- 💡 Contributing to E-commerce Projects is always been a goal to me.
-- ⚡ Fun fact: I love Football, Read book and Workout.
-<br>
-
 ---
 ## 🛠️ My Favourite tools
 
