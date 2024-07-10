@@ -92,23 +92,24 @@ Loading ↻
 ### Connect with me🤝
   </hr>
   <a href="https://www.linkedin.com/in/pantong-sanonok-41b152308/">
-   <img align="left" alt=" Pantong Sanonok | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+   <img align="left" alt=" Pantong Sanonok | Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pantong.sano47@gmail.com">
-    <img align="left" alt="Pantong Sanonok | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://x.com/PantongSanoker">
-    <img align="left" alt="Pantong Sanonok| X" width="26px" src="https://upload.vectorlogo.zone/logos/twitter/images/ea8e72ba-26a4-4bdf-bdd5-ca7d5e3b56d6.svg" />
-  </a>
-  <a href="https://www.instagram.com/ppantong_/?fbclid=IwZXh0bgNhZW0CMTAAAR2I08-ED1MWeS9dKH2554V2iKwfljUTriVaiP9txrJCnHbnKHkDyTSueKU_aem_Aeaz20ey_4mTUii3O0z60NQsKur1FVctrESIANb8lJecCtm__GNoxUn7jT8ae4hyyCmlyYxXo1IlywHuWbe18cQk">
-    <img align="left" alt="Pantong Sanonok | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://https://www.facebook.com/Pantong.pp/">
-    <img align="left" alt="Pantong Sanonok| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+    <img align="left" alt="Pantong Sanonok | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
    <a href="https://github.com/Paxius025">
-    <img align="left" alt="Pantong Sanonok| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="left" alt="Pantong Sanonok| Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://x.com/PantongSanoker">
+    <img align="left" alt="Pantong Sanonok| X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ppantong_/?fbclid=IwZXh0bgNhZW0CMTAAAR2I08-ED1MWeS9dKH2554V2iKwfljUTriVaiP9txrJCnHbnKHkDyTSueKU_aem_Aeaz20ey_4mTUii3O0z60NQsKur1FVctrESIANb8lJecCtm__GNoxUn7jT8ae4hyyCmlyYxXo1IlywHuWbe18cQk">
+    <img align="left" alt="Pantong Sanonok | Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+   <a href="https://https://www.facebook.com/Pantong.pp/">
+    <img align="left" alt="Pantong Sanonok| Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+  
   <br>
   
 
