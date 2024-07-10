@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to my page</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is me ,Pantong Sanonok </h1>
 
 <br>
 <p align="center">
   <em>
-    This is me <b>Pantong Sanonok</b>, a second year <b>Computer Engineer</b> undergraduate from <a href="https://www.ku.ac.th/th"> <b>Kasetsart University</b>, Thailand</a>.<br>
+    A second year <b>Computer Engineer</b> undergraduate from <a href="https://www.ku.ac.th/th"> <b>Kasetsart University</b>, Thailand</a>.<br>
     An aspiring <b>Backend Developer,</b>&nbsp;and <b> System design.</b> 
 </p>
 
