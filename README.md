@@ -5,12 +5,9 @@
   <em>
     This is me <b>Pantong Sanonok</b>, a second year <b>Computer Engineer</b> undergraduate from <a href="https://www.ku.ac.th/th"> <b>Kasetsart University</b>, Thailand</a>.<br>
     An aspiring <b>Backend Developer,</b>&nbsp;and <b> System design.</b> 
-  <br>
-    <br>
-  <b><i>" You only live once, but if you do it right, once is enough. " </b> Mae West</i>
 </p>
 
----
+
 # 🛠️ My Favourite tools
 
 ### 👨‍💻 Programming languages
