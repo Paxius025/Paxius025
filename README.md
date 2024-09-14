@@ -57,19 +57,6 @@
   <!-- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a> -->
 </p>
 
- <!--
-### 🧾 certificate
-
-Loading ↻
---> 
-
-
-### 🤖 AI usage
-   <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
-
----
-
-
 </details>
 
 
