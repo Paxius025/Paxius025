@@ -82,18 +82,20 @@ Loading ↻
   <a href="mailto:pantong.sano47@gmail.com">
     <img align="left" alt="Pantong Sanonok | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-   <a href="https://github.com/Paxius025">
-    <img align="left" alt="Pantong Sanonok| Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://x.com/PantongSanoker">
+   
+<!--   <a href="https://x.com/PantongSanoker">
     <img align="left" alt="Pantong Sanonok| X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/ppantong_/?fbclid=IwZXh0bgNhZW0CMTAAAR2I08-ED1MWeS9dKH2554V2iKwfljUTriVaiP9txrJCnHbnKHkDyTSueKU_aem_Aeaz20ey_4mTUii3O0z60NQsKur1FVctrESIANb8lJecCtm__GNoxUn7jT8ae4hyyCmlyYxXo1IlywHuWbe18cQk">
     <img align="left" alt="Pantong Sanonok | Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-   <a href="https://https://www.facebook.com/Pantong.pp/">
-    <img align="left" alt="Pantong Sanonok| Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  
+  <a href="https://github.com/Paxius025">
+    <img align="left" alt="Pantong Sanonok| Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+<!--    <a href="https://https://www.facebook.com/Pantong.pp/">
+    <img align="left" alt="Pantong Sanonok| Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a> -->
   
   <br>
   
