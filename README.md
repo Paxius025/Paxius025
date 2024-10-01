@@ -10,7 +10,20 @@
 
 # 🛠️ My Favourite tools
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Favourite Stack
+ <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+ <a href="#"><img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
+ <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+ <a href="#"><img alt="Node.JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+ 
+### 📊 My stats
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=paxius025&show_icons=true&theme=radical" />
+ <!--  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxius025&theme=radical&layout=compact" />  -->
+</div>
+
+### 📜 Programming languages
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
@@ -60,10 +73,7 @@
 
 </details>
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=paxius025&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxius025&theme=radical&layout=compact" />
-</div>
+
 
 ### Connect with me🤝
   </hr>
