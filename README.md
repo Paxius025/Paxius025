@@ -56,7 +56,9 @@
    <a href="#"><img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases 
+
+<!-- and Cloud Hosting -->
 <p>
     <!-- <a href="#"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></a> -->
     <!-- <a href="#"><img alt="HTML" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></a> -->
