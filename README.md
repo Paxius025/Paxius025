@@ -42,7 +42,7 @@
 <p align="center">
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
-
+<!--
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pantong-sanonok-41b152308/">
@@ -53,5 +53,5 @@
   </a>
   <a href="https://www.instagram.com/ppantong_/?fbclid=IwZXh0bgNhZW0CMTAAAR2I08-ED1MWeS9dKH2554V2iKwfljUTriVaiP9txrJCnHbnKHkDyTSueKU_aem_Aeaz20ey_4mTUii3O0z60NQsKur1FVctrESIANb8lJecCtm__GNoxUn7jT8ae4hyyCmlyYxXo1IlywHuWbe18cQk">
     <img alt="Pantong Sanonok | Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
+  </a> -->
 </p>
