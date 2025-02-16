@@ -17,7 +17,17 @@
 - 🏆 Always **learning & improving** in **JavaScript** to improve my skills
 - 🎯 Always curious and eager to build better systems!
 
----
+
+
+## 📈 **GitHub Analytics**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paxius025&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" width="45%" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxius025&theme=radical&layout=compact&hide_border=true&border_radius=10" width="38%" />
+</p>
+
+
+
+
 
 ## 🚀 **Tech Stack & Tools**  
 
@@ -49,30 +59,6 @@
 </table>
 
 
-💡 *Always learning and improving!* 🚀
-
----
-
-## 📈 **GitHub Analytics**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paxius025&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" width="45%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paxius025&theme=radical&hide_border=true&border_radius=10" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxius025&theme=radical&layout=compact&hide_border=true&border_radius=10" width="38%" />
-</p>
-
----
-
-## 🎬 **Movies & Liverpool Fan**  
-- 🍿 Favorite Movies: **Interstellar, Inception, The Dark Knight, The Matrix**  
-- ⚽ Huge **Liverpool FC** fan! **You'll Never Walk Alone!** 🔴🔥  
-- 🎮 Enjoys gaming in free time 🎯  
-
----
-
-
 
 ## 📫 **Connect with Me**
 <p align="center">
@@ -87,5 +73,6 @@
   </a>
 </p>
 
----
+
+
 
