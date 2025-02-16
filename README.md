@@ -33,8 +33,10 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%"><strong>🎯 Programming Languages</strong></td>
-    <td align="center" width="50%"><strong>⚙️ Frameworks & Libraries</strong></td>
+    <td align="center"><strong>🎯 Languages</strong></td>
+    <td align="center"><strong>⚙️ Frameworks</strong></td>
+    <td align="center"><strong>🗄️ Databases</strong></td>
+    <td align="center"><strong>🛠️ Tools</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -43,12 +45,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=laravel,tailwind" />
     </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🗄️ Databases</strong></td>
-    <td align="center"><strong>🛠️ Tools & DevOps</strong></td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" />
     </td>
