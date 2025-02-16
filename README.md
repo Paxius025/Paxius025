@@ -10,8 +10,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
  </p>  -->
 
----
-
 ## 🚀 **Who Am I?**
 - 🎓 **2nd Year** Computer Engineering Student at [**Kasetsart University**](https://www.ku.ac.th/th)
 - 💻 Interested in **Backend Development & System Design** 
@@ -23,25 +21,32 @@
 
 ## 🚀 **Tech Stack & Tools**  
 
-### 🎯 **Programming Languages**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,python" />
-</p>
-
-### ⚙️ **Frameworks & Libraries**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind" />
-</p>
-
-### 🗄️ **Databases**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🛠️ **Tools & DevOps**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><strong>🎯 Programming Languages</strong></td>
+    <td align="center" width="50%"><strong>⚙️ Frameworks & Libraries</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,php,python" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🗄️ Databases</strong></td>
+    <td align="center"><strong>🛠️ Tools & DevOps</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    </td>
+  </tr>
+</table>
 
 
 💡 *Always learning and improving!* 🚀
