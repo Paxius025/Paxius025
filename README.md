@@ -1,21 +1,21 @@
-<h1 align="center"> 
+<!-- ## <h1 align="center"> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
   Hey There! I'm 
   <span style="background: linear-gradient(45deg, #f3ec78, #af4261); -webkit-background-clip: text; color: transparent;">
     Pantong Sonnok
   </span>
-</h1>
+</h1> -->
 
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
  </p>  -->
 
-## 🚀 **Who Am I?**
+<!-- ## 🚀 **Who Am I?**
 - 🎓 **2nd Year** Computer Engineering Student at [**Kasetsart University**](https://www.ku.ac.th/th)
 - 💻 Interested in **Backend Development & System Design** 
 - 🚀 Learning **API Development, Database Design, and Cloud Computing**
 - 🏆 Always **learning & improving** in **JavaScript** to improve my skills
-- 🎯 Always curious and eager to build better systems!
+- 🎯 Always curious and eager to build better systems! -->
 
 
 
