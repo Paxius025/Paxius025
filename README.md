@@ -29,30 +29,11 @@
 
 
 
-## 🚀 **Tech Stack & Tools**  
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>🎯 Languages</strong></td>
-    <td align="center"><strong>⚙️ Frameworks</strong></td>
-    <td align="center"><strong>🗄️ Databases</strong></td>
-    <td align="center"><strong>🛠️ Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,php,python" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=laravel,tailwind" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-    </td>
-  </tr>
-</table>
+## 🚀 **Tech Stack & Tools**
+- **Languages**: JavaScript, PHP
+- **Frameworks**: Laravel, Tailwind CSS, Node.js
+- **Databases**: MySQL
+- **Tools**: Git, Docker
 
 
 
