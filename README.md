@@ -17,25 +17,33 @@
 
 ## 🛠 Tech Stack
 
-**Languages**  
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python" height="30" />
-</p>
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><strong>Frameworks & Libraries</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,php,python" height="30" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=express,react,tailwind" height="30" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & ORM</strong></td>
+    <td><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=prisma,mysql,postgres" height="30" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,docker,vscode" height="30" />
+    </td>
+  </tr>
+</table>
 
-**Frameworks & Libraries**  
-<p>
-  <img src="https://skillicons.dev/icons?i=express,react,tailwind" height="30" />
-</p>
-
-**Databases & ORM**  
-<p>
-  <img src="https://skillicons.dev/icons?i=prisma,mysql,postgres" height="30" />
-</p>
-
-**Tools**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode" height="30" />
-</p>
 
 ## 📫 Contact
 
