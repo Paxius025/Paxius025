@@ -1,44 +1,45 @@
-<!-- ## <h1 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-  Hey There! I'm 
-  <span style="background: linear-gradient(45deg, #f3ec78, #af4261); -webkit-background-clip: text; color: transparent;">
-    Pantong Sonnok
-  </span>
-</h1> -->
 
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
- </p>  -->
+## 👤 Pantong Sanonok
 
-<!-- ## 🚀 **Who Am I?**
-- 🎓 **2nd Year** Computer Engineering Student at [**Kasetsart University**](https://www.ku.ac.th/th)
-- 💻 Interested in **Backend Development & System Design** 
-- 🚀 Learning **API Development, Database Design, and Cloud Computing**
-- 🏆 Always **learning & improving** in **JavaScript** to improve my skills
-- 🎯 Always curious and eager to build better systems! -->
+- 🎓 3rd-year Computer Engineering student at [Kasetsart University](https://www.ku.ac.th/th)
+- 💻 Focused on **Backend Development**, **API Design**, and **System Architecture**
+- 🧠 Currently learning **JavaScript**, **Node.js**, and **Database Optimization**
+- 🧩 Interested in building clean, scalable, and maintainable systems
 
+## 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=paxius025&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=graywhite" width="400" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxius025&layout=compact&hide_border=true&theme=graywhite&line_height=30" width="400" /></td>
+  </tr>
+</table>
 
-## 📈 **GitHub Analytics**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paxius025&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" width="45%" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxius025&theme=radical&layout=compact&hide_border=true&border_radius=10" width="38%" />
+## 🛠 Tech Stack
+
+**Languages**  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python" height="30" />
 </p>
 
+**Frameworks & Libraries**  
+<p>
+  <img src="https://skillicons.dev/icons?i=express,react,tailwind" height="30" />
+</p>
 
+**Databases & ORM**  
+<p>
+  <img src="https://skillicons.dev/icons?i=prisma,mysql,postgres" height="30" />
+</p>
 
+**Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode" height="30" />
+</p>
 
+## 📫 Contact
 
-## 🚀 **Tech Stack & Tools**
-- **Languages**: JavaScript, PHP
-- **Frameworks**: Laravel, Tailwind CSS, Node.js
-- **Databases**: MySQL
-- **Tools**: Git, Docker
-
-
-
-## 📫 **Connect with Me**
-<p align="center">
+<p align="">
   <a href="mailto:pantong.s@ku.th">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -49,7 +50,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-
-
-
