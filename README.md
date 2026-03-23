@@ -15,7 +15,4 @@
   <a href="https://www.linkedin.com/in/pantong-sanonok-41b152308/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/paxius025">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
 </p>
