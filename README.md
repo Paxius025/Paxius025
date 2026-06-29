@@ -82,6 +82,7 @@ Replaced scattered spreadsheets and manual processes with one centralized system
 
 | Award | Year | Details |
 |---|---|---|
+| 🥈 **Silver Medal** — Thailand Reserach Expo | 2026 | Awarded at Thailand's national research and innovation exhibition |
 | 🥈 **Silver Medal** — Thailand New Gen Inventors | 2025 | National innovation competition showcasing student inventions |
 | 🥉 **Bronze Medal** — TESA Top Gun Rally | 2025 | National embedded systems & IoT competition (Team Leader) |
 | 🏅 **Academic Excellence Award** | 2023, 2024 | Kasetsart University — outstanding academic performance |
@@ -91,11 +92,9 @@ Replaced scattered spreadsheets and manual processes with one centralized system
 
 ## 📚 Currently Learning
 
-- 📈 Advanced **data visualization** with Power BI & Tableau
 - 📋 **Agile & Scrum** methodologies for project delivery
 - 🧩 **BPMN 2.0** for standardized process modeling
 - 🤖 Exploring **AI-assisted analytics** and how it shapes the BA role
-- 📊 **CBAP / ECBA** certification preparation
 
 ---
 
